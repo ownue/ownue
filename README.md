@@ -111,7 +111,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" alt="TodayEng" src="https://github.com/user-attachments/assets/8fe9b18e-f562-439f-afe7-2824c098d29e" />
+  <img width="100%" alt="TodayEng" src="https://github.com/user-attachments/assets/8fe9b18e-f562-439f-afe7-28b5d8ed2279" />
 </p>
 
 <p align="center">
@@ -146,7 +146,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" alt="MuseReview" src="https://github.com/user-attachments/assets/83b390f0-541b-49a5-ad59-21004c098d29e" />
+  <img width="100%" alt="MuseReview" src="https://github.com/user-attachments/assets/83b390f0-541b-49a5-ad59-2824c098d29e" />
 </p>
 
 <p align="center">

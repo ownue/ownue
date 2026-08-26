@@ -46,7 +46,7 @@
 
 **Database**
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC3100D?style=flat-square&logo=redis&logoColor=white" />
 
 <br />
 
@@ -76,7 +76,7 @@
 </p>
 
 <p align="center">
-  <img width="82%" alt="Dear.e" src="https://github.com/user-attachments/assets/d9285321-38e7-4155-9164-2c521cf016e2" />
+  <img width="100%" alt="Dear.e" src="https://github.com/user-attachments/assets/d9285321-38e7-4155-9164-2c521cf016e2" />
 </p>
 
 <p align="center">
@@ -84,7 +84,7 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC3100D?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
@@ -111,7 +111,7 @@
 </p>
 
 <p align="center">
-  <img width="82%" alt="TodayEng" src="https://github.com/user-attachments/assets/8fe9b18e-f562-439f-afe7-28b5d8ed2279" />
+  <img width="100%" alt="TodayEng" src="https://github.com/user-attachments/assets/8fe9b18e-f562-439f-afe7-28b5d8ed2279" />
 </p>
 
 <p align="center">
@@ -146,7 +146,7 @@
 </p>
 
 <p align="center">
-  <img width="82%" alt="MuseReview" src="https://github.com/user-attachments/assets/83b390f0-541b-49a5-ad59-2824c098d29e" />
+  <img width="100%" alt="MuseReview" src="https://github.com/user-attachments/assets/83b390f0-541b-49a5-ad59-21004c098d29e" />
 </p>
 
 <p align="center">

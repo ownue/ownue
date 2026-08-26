@@ -162,7 +162,7 @@
   <a href="https://github.com/Musereview/BE">
     <img src="https://img.shields.io/badge/Repository-0969DA?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="https://musereview-sigma.vercel.app/">
+  <a href="https://www.musereview.site/">
     <img src="https://img.shields.io/badge/Service-3AECA2?style=flat-square&logo=vercel&logoColor=0B0F19" />
   </a>
 </p>
